@@ -1,0 +1,35 @@
+Edutorium Live (2D Board + 3D World)
+Copyright (c) 2026 Edutorium of Excellence LLC. All rights reserved.
+
+This software, including its code, design, text, images and the Edutorium name and logo, is the property of
+Edutorium of Excellence LLC.
+
+You may use Edutorium Live through its published website for teaching and learning.
+
+You may not copy, modify, publish, distribute, sublicense or sell this software or any part of it, or use it to
+make other products, without written permission from Edutorium of Excellence LLC.
+
+Boards and worlds that teachers and students build with Edutorium Live (files, links and pictures) belong to the people
+who made them.
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL
+EDUTORIUM OF EXCELLENCE LLC BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE USE OF
+THIS SOFTWARE.
+
+Contact: edutoriumllc@gmail.com
+
+
+Third-party software
+--------------------
+Edutorium Live loads the following open-source libraries, which keep their own licenses:
+
+Three.js (3D drawing) — MIT License
+Copyright (c) 2010-2024 three.js authors. Full text: https://github.com/mrdoob/three.js/blob/dev/LICENSE
+
+PeerJS (used for Work together) — MIT License
+Copyright (c) 2015 Michelle Bu and Eric Zhang, http://peerjs.com. Full text: https://github.com/peers/peerjs/blob/master/LICENSE
+
+The MIT License: Permission is hereby granted, free of charge, to any person obtaining a copy of this software
+and associated documentation files, to deal in the Software without restriction, subject to including the
+copyright notice and this permission notice in all copies or substantial portions of the Software. The Software
+is provided "as is", without warranty of any kind.
